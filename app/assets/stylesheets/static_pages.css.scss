@@ -1,3 +1,8 @@
+body
+{
+  margin: 20px;
+}
+
 @font-face {
     font-family: 'comfortaaregular';
     src: asset-url('comfortaa_regular-webfont.eot', font);
@@ -14,7 +19,12 @@ h1, h2
   font-family: 'comfortaaregular', sans-serif;
 }
 
-p
+p, a
 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#name
+{
+  text-align:center;
 }

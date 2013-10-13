@@ -43,3 +43,6 @@ gem 'figaro'
 
 # To use debugger
 # gem 'debugger'
+
+# Jekyll blog
+gem 'bloggy'

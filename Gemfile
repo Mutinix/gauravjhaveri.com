@@ -46,3 +46,6 @@ gem 'figaro'
 
 # Jekyll blog
 gem 'bloggy'
+
+# High Voltage for static pages
+gem 'high_voltage'

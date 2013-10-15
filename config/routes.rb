@@ -1,4 +1,3 @@
 Portfolio::Application.routes.draw do
-  get "static_pages/home"
-  root to: "static_pages#home"
+  root :to => 'high_voltage/pages#show', id: 'home'
 end

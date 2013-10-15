@@ -49,3 +49,6 @@ gem 'bloggy'
 
 # High Voltage for static pages
 gem 'high_voltage'
+
+# Gem to skip plugin injection
+gem 'rails_12factor'

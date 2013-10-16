@@ -5,7 +5,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Gaurav Jhaveri</title>
- <link href="http://gauravjhaveri.com/atom.xml" rel="self"/>
+ <link href="http://gauravjhaveri.com/blog/atom.xml" rel="self"/>
  <link href="http://gauravjhaveri.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://gauravjhaveri.com/</id>

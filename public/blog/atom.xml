@@ -4,12 +4,33 @@
  <title>Gaurav Jhaveri</title>
  <link href="http://gauravjhaveri.com/blog/atom.xml" rel="self"/>
  <link href="http://gauravjhaveri.com/"/>
- <updated>2013-10-16T19:06:54+05:30</updated>
+ <updated>2013-10-17T02:20:20+05:30</updated>
  <id>http://gauravjhaveri.com/</id>
  <author>
    <name>Gaurav Jhaveri</name>
  </author>
 
+ 
+ <entry>
+   <title>Hello, world!</title>
+   <link href="http://gauravjhaveri.com/hello-world.html"/>
+   <updated>2013-10-15T00:00:00+05:30</updated>
+   <id>http://gauravjhaveri.com/hello-world</id>
+   <content type="html">&lt;h1&gt;Hello, world!&lt;/h1&gt;
+
+&lt;p&gt;It's been a long month. I needed a personal website up to showcase some of the projects I've been working on while also getting some more experience in the process. What I thought would only be a week-long project ended up taking far, far longer than that. This was partly due to the fact that I hadn't quite planned things very well and also because I've been overwhelmed with work.&lt;/p&gt;
+
+&lt;p&gt;Rails was a natural starting point because that's what I'm most comfortable with. I could have used &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; but Rails allows me far more flexibility, in case I want to add features in the future.&lt;/p&gt;
+
+&lt;p&gt;I knew that the bulk of my website was going to consist of static pages. I started out by creating a 'Pages' controller and having a separate action for each page. This method worked fine, but it didn't seem very clean to me. That's when I found out about &lt;a href=&quot;https://github.com/thoughtbot/high_voltage&quot;&gt;High Voltage&lt;/a&gt; by &lt;a href=&quot;http://thoughtbot.com/&quot;&gt;ThoughtBot&lt;/a&gt;. High Voltage provides a neat, clean way to organize and serve static pages. It also handles the routes for you and provides helper methods. Furthermore, you don't have to worry about duplicating headers and footers because it yields the pages in to a customizable layout.&lt;/p&gt;
+
+&lt;p&gt;Finally, I had to add a blog. After doing a bit of research, &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt; seemed to be the obvious choice. So, I used &lt;a href=&quot;https://blog.engineyard.com/2012/introducing-bloggy-a-simple-way-to-add-a-jekyll-blog-to-any-rails-application&quot;&gt;Bloggy&lt;/a&gt; to add Jekyll to my site.&lt;/p&gt;
+
+&lt;p&gt;Well, that's about it. My site is far from complete. I still have to add my resume and also work on the project showcase page. Nonetheless, I'm happy to have something out.&lt;/p&gt;
+
+&lt;p&gt;In case you're interested, the source code is up on &lt;a href=&quot;https://github.com/Mutinix/gauravjhaveri.com&quot;&gt;GitHub&lt;/a&gt;. Hello, world!&lt;/p&gt;
+</content>
+ </entry>
  
  
 </feed>

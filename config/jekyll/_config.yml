@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /:title.html
+permalink: /:title
 destination: ../../public/blog
 auto: true
 exclude:

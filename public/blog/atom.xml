@@ -4,7 +4,7 @@
  <title>Gaurav Jhaveri</title>
  <link href="http://gauravjhaveri.com/blog/atom.xml" rel="self"/>
  <link href="http://gauravjhaveri.com/"/>
- <updated>2013-10-17T02:20:20+05:30</updated>
+ <updated>2013-10-21T01:29:24+05:30</updated>
  <id>http://gauravjhaveri.com/</id>
  <author>
    <name>Gaurav Jhaveri</name>
@@ -13,7 +13,7 @@
  
  <entry>
    <title>Hello, world!</title>
-   <link href="http://gauravjhaveri.com/hello-world.html"/>
+   <link href="http://gauravjhaveri.com/hello-world"/>
    <updated>2013-10-15T00:00:00+05:30</updated>
    <id>http://gauravjhaveri.com/hello-world</id>
    <content type="html">&lt;h1&gt;Hello, world!&lt;/h1&gt;

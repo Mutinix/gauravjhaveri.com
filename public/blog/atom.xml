@@ -4,12 +4,39 @@
  <title>Gaurav Jhaveri</title>
  <link href="http://gauravjhaveri.com/blog/atom.xml" rel="self"/>
  <link href="http://gauravjhaveri.com/"/>
- <updated>2014-01-04T01:27:16+05:30</updated>
+ <updated>2014-01-06T21:49:57+05:30</updated>
  <id>http://gauravjhaveri.com/</id>
  <author>
    <name>Gaurav Jhaveri</name>
  </author>
 
+ 
+ <entry>
+   <title>Doing More, Doing Better</title>
+   <link href="http://gauravjhaveri.com/doing-more.html"/>
+   <updated>2014-01-04T00:00:00+05:30</updated>
+   <id>http://gauravjhaveri.com/doing-more</id>
+   <content type="html">&lt;h1&gt;Doing More, Doing Better&lt;/h1&gt;
+
+&lt;p&gt;2013 was a huge step forward for me. I learnt Ruby on Rails, among other things, from the ground-up by attending &lt;a href=&quot;http://www.appacademy.io/&quot;&gt;App Academy&lt;/a&gt;. I also got my personal website up, which is something I've wanted to do for a while. Finally, I got working on my first major project, &lt;a href=&quot;http://www.dotanexus.com/&quot;&gt;Dota Nexus&lt;/a&gt;. It doesn't matter what this project ultimately results in. The lessons learnt from the mistakes I made during the course of its development alone make it worth the time and effort I put in to it.&lt;/p&gt;
+
+&lt;p&gt;But, I know I can do more. And I can do better.&lt;/p&gt;
+
+&lt;h3&gt;Learning&lt;/h3&gt;
+
+&lt;p&gt;I signed-up for a number of MOOCs in 2013 but ended up dropping out of more than half of them. In some cases I merely wanted to explore the courses and see what they were about. On the other hand, there were some courses where I was over half-way to completion and dropped out because I started falling behind on the problem sets. So this year I'm going to make a list of MOOCs I'm interested in, and I'm going to follow them through to completion. I've already begun by enrolling in the Signature Track for &lt;a href=&quot;https://class.coursera.org/androidapps101-001&quot;&gt;Creative, Serious and Playful Science of Android Apps&lt;/a&gt;. With a bit of better time-management than last year, I'm confident I can learn a lot of new things this year.&lt;/p&gt;
+
+&lt;h3&gt;Coding&lt;/h3&gt;
+
+&lt;p&gt;Dota Nexus was the only significant project I worked on in 2013. I didn't spend much time on side-projects or programming challenges and only spent a minimal amount of time implementing algorithms. This obviously resulted in my programming skills becoming rustier than I would have liked. I plan on changing that. I'm going to try working on at least one side-project every week. I'm also going to spend some time each day working on problems from &lt;a href=&quot;http://programmingpraxis.com/&quot;&gt;Programming Praxis&lt;/a&gt; and &lt;a href=&quot;http://www.reddit.com/r/dailyprogrammer&quot;&gt;/r/dailyprogrammer&lt;/a&gt;. Finally, I'm going to regularly implement algorithms from CLRS as I read about them. All of this should go a long way in keeping my coding skills sharp.&lt;/p&gt;
+
+&lt;h3&gt;Events&lt;/h3&gt;
+
+&lt;p&gt;August 2013 was when I attended my first ever hackathon - &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.554286037965737.1073741830.248745975186413&amp;amp;type=1&quot;&gt;Facebook Summer of Hack&lt;/a&gt; in New York City. I had done a lot of coding before that, but none of it was under so much pressure. It's supposed to be a fun event, right? But to be able to produce something in 24 hours so that you don't make a fool of yourself in front of all these smart people, that's stressful. Our team did less than stellar, but it was still one of the best experiences of my life. I'm going to make it a point to attend more of these events and learn more from all the incredibly smart people in the world.&lt;/p&gt;
+
+&lt;p&gt;I'm looking forward to 2014.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hello, world!</title>

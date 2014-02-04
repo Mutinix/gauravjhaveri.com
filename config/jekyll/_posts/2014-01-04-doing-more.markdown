@@ -12,7 +12,7 @@ But, I know I can do more. And I can do better.
 
 ### Learning ###
 
-I signed-up for a number of MOOCs in 2013 but ended up dropping out of more than half of them. In some cases I merely wanted to explore the courses and see what they were about. On the other hand, there were some courses where I was over half-way to completion and dropped out because I started falling behind on the problem sets. So this year I'm going to make a list of MOOCs I'm interested in, and I'm going to follow them through to completion. I've already begun by enrolling in the Signature Track for [Creative, Serious and Playful Science of Android Apps](https://class.coursera.org/androidapps101-001). With a bit of better time-management than last year, I'm confident I can learn a lot of new things this year.
+I signed-up for a number of MOOCs in 2013 but ended up dropping out of more than half of them. In some cases I merely wanted to explore the courses and see what they were about. On the other hand, there were some courses where I was over half-way to completion and dropped out because I started falling behind on the problem sets. So this year I'm going to make a list of MOOCs I'm interested in, and I'm going to follow them through to completion. I've already begun by enrolling in the [Mobile Cloud Computing with Android](https://www.coursera.org/specialization/mobilecloudcomputing/2) Specialization on Coursera. With a bit of better time-management than last year, I'm confident I can learn a lot of new things this year.
 
 ### Coding ###
 

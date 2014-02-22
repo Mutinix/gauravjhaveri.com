@@ -12,25 +12,3 @@
  *= require foundation_and_overrides
  *= require_tree .
  */
-
-nav ul
-{
-  padding: 10px;
-  list-style: none;
-}
-
-nav a
-{
-  text-decoration: none;
-}
-
-#brand
-{
-  float: left;
-}
-
-.nav-item
-{
-  padding: 0px 10px;
-  float: right;
-}

@@ -5,9 +5,6 @@ ruby '2.1.0'
 
 gem 'rails', '3.2.13'
 
-# Bundle edge Rails instead:
-# gem 'rails', :git => 'git://github.com/rails/rails.git'
-
 group :development do
   gem 'sqlite3'
 end
@@ -35,7 +32,6 @@ end
 gem 'jquery-rails'
 gem 'figaro'
 
-gem 'jekyll', '~> 0.12.0'
 # Jekyll blog
 gem 'bloggy'
 

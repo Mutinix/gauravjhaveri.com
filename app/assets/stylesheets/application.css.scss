@@ -14,3 +14,23 @@
  */
 
 @import 'foundation-icons';
+
+body, html
+{
+  height: 90%;
+}
+
+footer
+{
+  clear: both;
+  background: black;
+  color: White;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+  line-height: normal;
+  margin-top: 10px;
+  padding: 25px;
+  bottom: 0px;
+  width: 100%;
+}

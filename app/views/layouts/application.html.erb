@@ -27,7 +27,7 @@
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
           <li class="name">
-            <h1><a href="#"></a></h1>
+            <h1><%= link_to "Home", "/" %></h1>
           </li>
           <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
         </ul>
@@ -45,6 +45,16 @@
     </div>
 
     <%= yield %>
+    
+    <footer>
+      <div class="row">
+        <div class="small-12 columns">
+      		<i class="fi-mail"></i> <%= mail_to "jhaveri.gaurav@gmail.com" %>
+          <i class="fi-social-github"></i> <%= link_to "Mutinix", "https://github.com/Mutinix" %>
+          <i class="fi-social-twitter"></i> <%= link_to "gaurav_jhaveri", "https://twitter.com/gaurav_jhaveri" %>
+        </div>
+      </div>
+    </footer>
 
     
     <%= javascript_include_tag "application" %>

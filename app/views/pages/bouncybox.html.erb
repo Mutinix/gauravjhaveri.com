@@ -1,0 +1,9 @@
+<center>
+  <h1 style="font-family: Helvetica">Bouncy Box</h1>
+  <% content_for :head do %>
+    <%= javascript_include_tag 'bouncybox/phaser.min' %>
+  <% end %>
+  <%= javascript_include_tag 'bouncybox/main' %>
+  <p>Press Space to jump</p>
+  <div id="gameDiv"></div>
+</center>

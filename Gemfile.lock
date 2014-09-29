@@ -57,6 +57,9 @@ GEM
     foundation-icons-sass-rails (3.0.0)
       railties (>= 3.1.1)
       sass-rails (>= 3.1.1)
+    foundation-rails (5.4.5.0)
+      railties (>= 3.1.0)
+      sass (>= 3.2.0)
     high_voltage (2.2.1)
     highline (1.6.21)
     hike (1.2.3)
@@ -159,8 +162,6 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     yajl-ruby (1.1.0)
-    zurb-foundation (4.3.2)
-      sass (>= 3.2.0)
 
 PLATFORMS
   ruby
@@ -170,6 +171,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   figaro
   foundation-icons-sass-rails
+  foundation-rails
   high_voltage
   jquery-rails
   pg
@@ -178,4 +180,3 @@ DEPENDENCIES
   sass-rails (~> 3.2.3)
   sqlite3
   uglifier (>= 1.0.3)
-  zurb-foundation

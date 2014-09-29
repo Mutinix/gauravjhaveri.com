@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '2.1.0'
 #ruby-gemset=ruby-2.1.0
 
-gem 'rails', '3.2.13'
+gem 'rails', '4.1.6'
 
 group :development do
   gem 'sqlite3'
@@ -15,22 +15,16 @@ group :production do
   gem 'rails_12factor'
 end
 
+gem 'sass-rails', '~> 4.0.3'
+gem 'coffee-rails', '~> 4.0.1'
 
-# Gems used only for assets and not required
-# in production environments by default.
-group :assets do
-  gem 'sass', '3.2.13'
-  gem 'sass-rails'
-  gem 'coffee-rails', '~> 3.2.1'
+# See https://github.com/sstephenson/execjs#readme for more supported runtimes
+# gem 'therubyracer', :platforms => :ruby
 
-  # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platforms => :ruby
+gem 'uglifier', '>= 1.3.0'
 
-  gem 'uglifier', '>= 1.0.3'
-  
-  #Foundation 5
-  gem 'foundation-rails'
-end
+#Foundation 5
+gem 'foundation-rails'
 
 gem 'jquery-rails'
 gem 'figaro'
@@ -40,3 +34,11 @@ gem 'bloggy'
 
 # High Voltage for static pages
 gem 'high_voltage'
+
+# Upgrade from Rails 3 to Rails 4
+
+gem 'protected_attributes'
+gem 'rails-observers'
+gem 'actionpack-page_caching'
+gem 'actionpack-action_caching'
+gem 'activerecord-deprecated_finders'

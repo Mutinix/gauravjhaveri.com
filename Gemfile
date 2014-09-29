@@ -27,13 +27,8 @@ group :assets do
 
   gem 'uglifier', '>= 1.0.3'
   
-  # Foundation 4
-  # gem 'zurb-foundation'
-  
   #Foundation 5
   gem 'foundation-rails'
-  
-  gem 'foundation-icons-sass-rails'
 end
 
 gem 'jquery-rails'

@@ -25,6 +25,7 @@ gem 'uglifier', '>= 1.3.0'
 
 #Foundation 5
 gem 'foundation-rails'
+gem 'foundation-icons-sass-rails'
 
 gem 'jquery-rails'
 gem 'figaro'

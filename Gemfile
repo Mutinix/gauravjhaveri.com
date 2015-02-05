@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-ruby '2.1.0'
-#ruby-gemset=ruby-2.1.0
+ruby '2.1.2'
+#ruby-gemset=ruby-2.1.2
 
 gem 'rails', '4.1.6'
 
@@ -15,7 +15,7 @@ group :production do
   gem 'rails_12factor'
 end
 
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails', '~> 5.0.1'
 gem 'coffee-rails', '~> 4.0.1'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes

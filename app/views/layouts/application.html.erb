@@ -24,6 +24,8 @@
 
   <body>
     
+    <%= javascript_include_tag "application" %>
+    
     <div class="contain-to-grid">
       <nav class="top-bar" data-topbar role="navigation" aria-hidden="true">
         <ul class="title-area">
@@ -46,7 +48,6 @@
     </div>
 
     <%= yield %>
-    <%= javascript_include_tag "application" %>
     
     <script>
       $(document).foundation();
